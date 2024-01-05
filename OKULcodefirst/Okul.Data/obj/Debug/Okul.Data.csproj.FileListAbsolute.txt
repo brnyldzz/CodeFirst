@@ -1,0 +1,14 @@
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\Okul.Data.dll.config
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\Okul.Data.dll
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\Okul.Data.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\EntityFramework.dll
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\EntityFramework.xml
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.csproj.AssemblyReference.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.csproj.CopyComplete
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.dll
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.Migrations.olustur.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\OKULcodefirst\Okul.Data\obj\Debug\Okul.Data.csproj.GenerateResource.cache
